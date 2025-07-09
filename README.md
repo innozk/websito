@@ -7,8 +7,8 @@ descargar el archivo .ZIP y descomprimirlo
 el archivo utilizarlo en un interprete como Visual Estudios y abrir terminal, en la terminal ejecutar comando de "npm Install"
 luego de instalar todo solo es necesario utilizar el comando "npm start" y listo!
 
-## Datos a tomar encuenta
-## CARPETA SRC
+### Datos a tomar encuenta
+# CARPETA SRC
 ## APP.JSX
 en este .jsx se encuentra todas las importaciones y el nucleo de la app. en este mismo se encuentra los Route path, para la redireccion de la misma pagina, junto al pie de pagina que es el Footer.
 ## Menu.JSX
