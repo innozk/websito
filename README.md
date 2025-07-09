@@ -9,9 +9,9 @@ luego de instalar todo solo es necesario utilizar el comando "npm start" y listo
 
 ## Datos a tomar encuenta
 ## CARPETA SRC
-### APP.JSX
+## APP.JSX
 en este .jsx se encuentra todas las importaciones y el nucleo de la app. en este mismo se encuentra los Route path, para la redireccion de la misma pagina, junto al pie de pagina que es el Footer.
-### Menu.JSX
+## Menu.JSX
 de la linea 1 a la 6 se encuentra las importaciones de las imagenes que estan en la carpeta "imagenes"
 Linea 9-40 es para agregar platos del dia junto a una descripcion y link. este va ir variando dependiendo del dia"aun falta testar este ultimo"
 Linea 42-46 se encuentra el SessionStorage, donde se guardan los pedidos del carrito, todo esto en numerado por un ID que se ira sumando con el ultimo id hecho.
